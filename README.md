@@ -21,10 +21,10 @@
 <h3 align="left">Languages, Tools, and Frameworks:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,figma,photoshop,ai,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=anaconda,nodejs,npm,html,css,postgres,python,javascript,jest,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=anaconda,nodejs,npm,html,css,postgres,python,javascript,jest,mysql,flask" />
 </div>
 
 <h3 align="left">Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=amv87&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amv87&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amv87&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=amv87&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amv87&theme=tokyonight&hide_border=false)
