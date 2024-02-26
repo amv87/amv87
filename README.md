@@ -1,4 +1,6 @@
-<h1 align="left">Hi there, I'm Álvaro 👋</h1>
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Álvaro+M.Villar.;" />
+</h1>
 <h3 align="left">I'm a full-stack developer from Madrid, Spain.</h3>
 
 - 🔭 I’m currently working on [BeatMusic](https://github.com/amv87/BeatMusic_pt49_FP)
@@ -7,11 +9,13 @@
 
 - 💬 Ask me about **React, JavaScript, Phyton**
 
-- 📫 You can reach me **alvaromvillar@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/álvaromvillar-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="álvaromvillar-developer" height="30" width="40" /></a>
+  <a href="mailto:alvaromvillar@outlook.com">
+    <img src="https://img.shields.io/badge/Mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/álvaromvillar-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
