@@ -25,4 +25,3 @@
 </div>
 
 <h3 align="left">Stats:</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amv87)](https://github.com/amv87/github-readme-stats)
