@@ -19,11 +19,10 @@
 </p>
 
 <h3 align="left">Languages, Tools, and Frameworks:</h3>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,figma,photoshop,ai,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=anaconda,nodejs,npm,html,css,postgres,python,javascript,jest,mysql,flask" /><br>
 </div>
+
 <h3 align="left">Stats:</h3>
-<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amv87)](https://github.com/amv87/github-readme-stats)
