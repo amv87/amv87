@@ -24,3 +24,5 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,figma,photoshop,ai,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=anaconda,nodejs,npm,html,css,postgres,python,javascript,jest,mysql,flask" /><br>
 </div>
+<h3 align="left">Stats:</h3>
+<br>
