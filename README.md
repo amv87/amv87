@@ -26,5 +26,5 @@
 
 <h3 align="left">Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=amv87&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=amv87&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=amv87&card_width=500px&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amv87&card_width=500px&theme=tokyonight&hide_border=false)
