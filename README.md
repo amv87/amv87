@@ -1,13 +1,9 @@
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=OpenSans&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Álvaro+M.Villar.;" />
 </h1>
-<h3 align="left">I'm a full-stack developer from Madrid, Spain.</h3>
-
-- 🔭 I’m currently working on [BeatMusic](https://github.com/amv87/BeatMusic_pt49_FP)
-
-- 🌱 I’m currently learning **Tailwind CSS**
-
-- 💬 Ask me about **React, JavaScript, Phyton**
+<div align="center">
+    <img src="https://i.imgur.com/sugzldR.jpeg" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
   <a href="mailto:alvaromvillar@outlook.com">
