@@ -6,13 +6,14 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-  <a href="mailto:alvaromvillar@outlook.com">
-    <img src="https://img.shields.io/badge/Mail-F06B66?logo=mailgun&logoColor=fff&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/álvaromvillar-developer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</p>
+<div align="center">
+    <a href="mailto:alvaromvillar@outlook.com">
+        <img src="https://img.shields.io/badge/Mail-F06B66?logo=mailgun&logoColor=fff&style=for-the-badge" />
+    </a>
+    <a href="https://linkedin.com/in/álvaromvillar-developer" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+</div>
 
 <h3 align="left">Languages, Tools, and Frameworks:</h3>
 <div align="center">
