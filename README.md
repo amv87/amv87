@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=OpenSans&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Álvaro+M.Villar.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=OpenSans&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Álvaro+M.;" />
 </h1>
 <div align="center">
     <img src="https://i.imgur.com/sugzldR.jpeg" />
